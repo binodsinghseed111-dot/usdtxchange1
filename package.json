@@ -2,7 +2,7 @@
   "name": "usdtxchange1",
   "version": "1.0.0",
   "description": "My Website",
-  "main": "Node.js",
+  "main": "Next.js",
   "scripts": {
     "start": "echo 'Starting website...'"
   }
@@ -11,7 +11,7 @@
   "name": "usdtxchange1",
   "version": "1.0.0",
   "description": "My Website",
-  "main": "index.html",
+  "main": "Next.js",
   "scripts": {
     "build": "echo 'No build step required'",
     "start": "echo 'Starting website...'"
