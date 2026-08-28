@@ -1,10 +1,1 @@
-{
-  "name": "usdtxchange1",
-  "version": "1.0.0",
-  "description": "My Website",
-  "main": "Next.js",
-  "scripts": {
-    "start": "echo 'Starting website...'"
-  }
-}
 
